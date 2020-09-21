@@ -1,2 +1,7 @@
 # fcc-backend-timestamp
-repo for fcc backend project 1
+-----------------------
+
+This is the first assigned backend/microservices project in fCC's fullstack curriculum.
+
+Project is also hosted on repl.it for demo, and was also developed there.
+
